@@ -1,4 +1,4 @@
-# Samurai App v0.0.6
+# Samurai App v0.0.7
 
 **Samurai App** is a secure and beautifully themed vault application for organizing your **images and videos** in a private, user-friendly interface. 
 
@@ -89,7 +89,7 @@ Feel free to fork the repository and submit a pull request.
 
 Download the latest version of Samurai App:
 
-[**Download APK - v0.0.6**](https://github.com/Samurai-Vault/Samurai/blob/main/APK/Samurai.v0.0.6.apk)
+[**Download APK - v0.0.7**](https://github.com/Samurai-Vault/Samurai/blob/main/APK/Samurai.v0.0.7.apk)
 
 ---
 
