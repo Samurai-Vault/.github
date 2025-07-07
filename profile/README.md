@@ -1,5 +1,10 @@
 # Samurai App v0.0.7
 
+| ![](https://github.com/Samurai-Vault/Assets/raw/main/Logos/Samurai%20Logo.jpg) | ![](https://github.com/Samurai-Vault/Assets/raw/main/Logos/Logo2.jpg) | ![](https://github.com/Samurai-Vault/Assets/raw/main/Logos/Logo3.jpg) |
+|:--:|:--:|:--:|
+| ![](https://github.com/Samurai-Vault/Assets/raw/main/Logos/Logo4.jpg) | ![](https://github.com/Samurai-Vault/Assets/raw/main/Logos/Logo5.jpg) | ![](https://github.com/Samurai-Vault/Assets/raw/main/Logos/Logo6.jpg) |
+
+
 **Samurai App** is a secure and beautifully themed vault application for organizing your **images and videos** in a private, user-friendly interface. 
 [**Download APK - v0.0.7**](https://github.com/Samurai-Vault/Samurai/raw/main/APK/Samurai.v0.0.7.apk)
 
