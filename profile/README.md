@@ -14,52 +14,17 @@ Built using **Kodular** – visit the [AIA repository](https://github.com/Samura
 
 ---
 
-## Login
+## App Screens Overview
 
-**Secure and simple login screen** to ensure only authorized access.
+| Feature | Screenshot |
+|--------|------------|
+| **Login**<br>Secure and simple login screen to ensure only authorized access. | ![Login Screen](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/LoginScreen.v0.0.6.jpg) |
+| **Images Page**<br>All your saved images in one place, organized for quick access. | ![Images Page](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/Images.v0.0.6.jpg) |
+| **View Individual Image**<br>Tap on any image to view it in full screen. | ![Image Display](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/ImageDisplay.v0.0.6.jpg) |
+| **Videos Page**<br>Organize and store your videos privately. _Note: Video thumbnails are currently not visible. We are actively seeking contributors to help resolve this issue._ | ![Videos Page](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/Videos.v0.0.6.jpg) |
+| **View Individual Video**<br>Watch videos with ease using the built-in player. | ![Video Display](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/VideosDisplay.v0.0.6.jpg) |
+| **Help & Info Page**<br>Easily access support and application information via the Help page. | ![Help Page](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/HelpPage.v0.0.6.jpg)
 
-![Login Screen](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/LoginScreen.v0.0.6.jpg)
-
----
-
-## Images Page
-
-**All your saved images** in one place, organized for quick access.
-
-![Images Page](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/Images.v0.0.6.jpg)
-
----
-
-## View Individual Image
-
-Tap on any image to **view it in full screen**.
-
-![Image Display](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/ImageDisplay.v0.0.6.jpg)
-
----
-
-## Videos Page
-
-**Organize and store your videos** privately.  
-Note: Video thumbnails are currently not visible. We are actively seeking contributors to help resolve this issue.
-
-![Videos Page](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/Videos.v0.0.6.jpg)
-
----
-
-## View Individual Video
-
-Watch videos with ease using the built-in player.
-
-![Video Display](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/VideosDisplay.v0.0.6.jpg)
-
----
-
-## Help & Info Page
-
-Easily access support and application information via the **Help page**.
-
-![Help Page](https://github.com/Samurai-Vault/Assets/blob/main/Screenshots%20/v0.0.6/HelpPage.v0.0.6.jpg)
 
 ---
 
@@ -114,7 +79,7 @@ This project is licensed under the MIT License.
 
 <p align="center">
   <a href="https://www.bornelabs.tech">
-    <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Transparent%20Logo.png" alt="Bornelabs Logo" width="200"/>
+    <img src="https://github.com/BorneLabs/Assets/blob/main/Images/Black%20Banner.png" alt="Bornelabs Logo" width="100%"/>
   </a>
 </p>
 
